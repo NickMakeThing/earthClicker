@@ -20,7 +20,7 @@ const App = () => {
     const autoResource = useRef(0)
     const upgradeResource = useRef(0)
     const deductionBuffer = useRef(0)
-    const [resourceState,setResourceState] = useState(5000)
+    const [resourceState,setResourceState] = useState(0)
     //separated resource sources to prevent race conditions & rerenders
     //most of them are refs to reduce unnecessary rerenders
     //resource state is the total resource that show on the screen
