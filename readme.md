@@ -2,8 +2,9 @@
 
 I made earthClicker as a means to get back into writing React and frontend code. As using react is not ideal making games. The game is not complete and I did not complete it as I achieved my goal of refamiliarizing myself with React.  
 A demonstration of the game being played can be seen [here](https://streamable.com/jdff57)  
-Its not exactly clear what most of these buttons do as I didn't end up implementing the descriptions. Here are some short descriptions of each:  
-
+Its not exactly clear what most of these buttons do as I didn't end up implementing the descriptions.  
+  
+Here are descriptions for each button used in the demonstration:  
 * Autoclicker will simulate a click for the user at regular intervals.  
 * Manual Clicks will generate 20% more resources per manual click.  
 * Giddy Up gives each manual click a chance to reduce the time before the next automatic click occurs.  
