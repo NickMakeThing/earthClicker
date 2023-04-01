@@ -11,4 +11,5 @@ Here are descriptions for each button used in the demonstration:
 * Lucky Manual Clicks gives a chance on each manual click to increase the amount of resources earned from an automatic click.  
 * Spawn gives a chance on each manual click to create an extra autoclicker that exists temporarily.  
   
+  
 ![alt text](https://github.com/NickMakeThing/earthClicker/blob/main/preview.png)
