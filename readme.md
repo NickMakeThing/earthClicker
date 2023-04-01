@@ -10,6 +10,5 @@ Here are descriptions for each button used in the demonstration:
 * Giddy Up gives each manual click a chance to reduce the time before the next automatic click occurs.  
 * Lucky Manual Clicks gives a chance on each manual click to increase the amount of resources earned from an automatic click.  
 * Spawn gives a chance on each manual click to create an extra autoclicker that exists temporarily.  
-  
 &nbsp;  
 ![alt text](https://github.com/NickMakeThing/earthClicker/blob/main/preview.png)
