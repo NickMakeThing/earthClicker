@@ -1,4 +1,4 @@
-##earthClicker
+# earthClicker
 
 I made earthClicker as a means to get back into writing React and frontend code. As using react is not ideal making games. The game is not complete and I did not complete it as I achieved my goal of refamiliarizing myself with React.
 A demonstration of the game being played can be seen [here](https://streamable.com/jdff57)
